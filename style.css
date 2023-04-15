@@ -1,0 +1,14 @@
+.body{
+    background-color: rgb(85, 48, 22);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    font-family: cursive;
+    color: chartreuse;
+}
